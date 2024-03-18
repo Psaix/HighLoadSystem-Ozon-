@@ -1,0 +1,15 @@
+C:\My Stuff\С# - обучение, проекты\Ozon Contest February 2024\Система высокой нагрузки\HighLoadSystem\bin\Debug\net7.0\HighLoadSystem.exe
+C:\My Stuff\С# - обучение, проекты\Ozon Contest February 2024\Система высокой нагрузки\HighLoadSystem\bin\Debug\net7.0\HighLoadSystem.deps.json
+C:\My Stuff\С# - обучение, проекты\Ozon Contest February 2024\Система высокой нагрузки\HighLoadSystem\bin\Debug\net7.0\HighLoadSystem.runtimeconfig.json
+C:\My Stuff\С# - обучение, проекты\Ozon Contest February 2024\Система высокой нагрузки\HighLoadSystem\bin\Debug\net7.0\HighLoadSystem.dll
+C:\My Stuff\С# - обучение, проекты\Ozon Contest February 2024\Система высокой нагрузки\HighLoadSystem\bin\Debug\net7.0\HighLoadSystem.pdb
+C:\My Stuff\С# - обучение, проекты\Ozon Contest February 2024\Система высокой нагрузки\HighLoadSystem\obj\Debug\net7.0\HighLoadSystem.csproj.AssemblyReference.cache
+C:\My Stuff\С# - обучение, проекты\Ozon Contest February 2024\Система высокой нагрузки\HighLoadSystem\obj\Debug\net7.0\HighLoadSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Stuff\С# - обучение, проекты\Ozon Contest February 2024\Система высокой нагрузки\HighLoadSystem\obj\Debug\net7.0\HighLoadSystem.AssemblyInfoInputs.cache
+C:\My Stuff\С# - обучение, проекты\Ozon Contest February 2024\Система высокой нагрузки\HighLoadSystem\obj\Debug\net7.0\HighLoadSystem.AssemblyInfo.cs
+C:\My Stuff\С# - обучение, проекты\Ozon Contest February 2024\Система высокой нагрузки\HighLoadSystem\obj\Debug\net7.0\HighLoadSystem.csproj.CoreCompileInputs.cache
+C:\My Stuff\С# - обучение, проекты\Ozon Contest February 2024\Система высокой нагрузки\HighLoadSystem\obj\Debug\net7.0\HighLoadSystem.dll
+C:\My Stuff\С# - обучение, проекты\Ozon Contest February 2024\Система высокой нагрузки\HighLoadSystem\obj\Debug\net7.0\refint\HighLoadSystem.dll
+C:\My Stuff\С# - обучение, проекты\Ozon Contest February 2024\Система высокой нагрузки\HighLoadSystem\obj\Debug\net7.0\HighLoadSystem.pdb
+C:\My Stuff\С# - обучение, проекты\Ozon Contest February 2024\Система высокой нагрузки\HighLoadSystem\obj\Debug\net7.0\HighLoadSystem.genruntimeconfig.cache
+C:\My Stuff\С# - обучение, проекты\Ozon Contest February 2024\Система высокой нагрузки\HighLoadSystem\obj\Debug\net7.0\ref\HighLoadSystem.dll
